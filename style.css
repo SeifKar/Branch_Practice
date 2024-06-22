@@ -4,3 +4,11 @@ body {
     padding: 0;
     background-color: aqua;
 }
+h1 {
+    font-size: 40px;
+    color: blue;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
